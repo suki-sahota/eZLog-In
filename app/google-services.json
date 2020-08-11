@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "533832174290",
+    "firebase_url": "https://enhancedconsultant.firebaseio.com",
+    "project_id": "enhancedconsultant",
+    "storage_bucket": "enhancedconsultant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533832174290:android:1fe42df7029b4426d8fb0b",
+        "android_client_info": {
+          "package_name": "com.eit.enhancedconsultant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533832174290-d7sab262ro2v756mum16873k2kcll42b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eit.enhancedconsultant",
+            "certificate_hash": "17ad5855c719b26494db756c874a1ec74fafbb5c"
+          }
+        },
+        {
+          "client_id": "533832174290-bs9h562eld7pvehvbklf55p3646rm764.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfc7VVIQtjn5S8eqkam-ydnz91nYf-OeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533832174290-bs9h562eld7pvehvbklf55p3646rm764.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
